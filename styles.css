@@ -86,8 +86,6 @@ section {
 }
 
 
-
-
 /* Responsive Design */
 @media (max-width: 768px) {
   nav {
@@ -180,6 +178,7 @@ section {
   transform: scale(1.05); /* Slightly enlarge on hover */
 }
 
+
 /* Parent Resources Section Styles */
 .resources {
   background-color: #FFFAF0; /* Same as sections for consistency */
@@ -204,7 +203,6 @@ section {
 .teacher p {
   font-size: 1.2em; /* Slightly larger font size for the teacher bio */
 }
-
 
 
 /* Footer Styles */
